@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.6b8f7c31.css",
-    "main.js": "/react-portfolio/static/js/main.c67e231a.js",
+    "main.css": "/react-portfolio/static/css/main.d1d2e1e9.css",
+    "main.js": "/react-portfolio/static/js/main.465db716.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Thanh.jpg": "/react-portfolio/static/media/Thanh.d00ca956e206c802a5b7.jpg",
+    "static/media/FinHub.png": "/react-portfolio/static/media/FinHub.dd52b520e893f8a24c9b.png",
+    "static/media/ThanhHoang_Resume.pdf": "/react-portfolio/static/media/ThanhHoang_Resume.84360b31c113e882ffd3.pdf",
+    "static/media/ecommercebackend.png": "/react-portfolio/static/media/ecommercebackend.550bf4ee62296bade2f8.png",
+    "static/media/socialnetworkapi.png": "/react-portfolio/static/media/socialnetworkapi.57a8cc9c1542b8c45a7f.png",
+    "static/media/workscheduler.png": "/react-portfolio/static/media/workscheduler.9777dd4041ee917c9c77.png",
+    "static/media/teamprofile.png": "/react-portfolio/static/media/teamprofile.c3b325595d4fcdb1e565.png",
+    "static/media/notetaker.png": "/react-portfolio/static/media/notetaker.3a0e37dbc71f703da476.png",
+    "static/media/passwordgenerator.png": "/react-portfolio/static/media/passwordgenerator.8b679c5b003a966cf02a.png",
     "index.html": "/react-portfolio/index.html",
-    "main.6b8f7c31.css.map": "/react-portfolio/static/css/main.6b8f7c31.css.map",
-    "main.c67e231a.js.map": "/react-portfolio/static/js/main.c67e231a.js.map",
+    "main.d1d2e1e9.css.map": "/react-portfolio/static/css/main.d1d2e1e9.css.map",
+    "main.465db716.js.map": "/react-portfolio/static/js/main.465db716.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b8f7c31.css",
-    "static/js/main.c67e231a.js"
+    "static/css/main.d1d2e1e9.css",
+    "static/js/main.465db716.js"
   ]
 }
